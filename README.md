@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="your-profile-image.jpg" alt="Your Name" width="150" />
+  <img src="your-profile-image.jpg" alt="aamish hussain" width="150" />
 </p>
 
 <h1 align="center">Aamish Hussain</h1>

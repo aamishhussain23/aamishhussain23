@@ -5,7 +5,7 @@
 
 <h1 align="center">Aamish Hussain</h1>
 
-<h3 align="center">Full-Stack MERN Developer | DevOps Enthusiast | Tech Stack Polyglot</h3>
+<h3 align="center">Full-Stack MERN Developer | DevOps Enthusiast</h3>
 
 <!-- GitHub Stats Badge -->
 <p align="center">

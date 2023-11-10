@@ -36,7 +36,7 @@
 
 ## 📚 Education
 
-[... Your Education ...]
+
 
 ## 🌐 Projects
 

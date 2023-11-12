@@ -28,7 +28,6 @@
 
 ## 🚀 Skills & Expertise
 
-[... Your Skills & Expertise ...]
 
 ## 💼 Experience
 

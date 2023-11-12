@@ -31,7 +31,6 @@
 
 ## 💼 Experience
 
-[... Your Experience ...]
 
 ## 📚 Education
 

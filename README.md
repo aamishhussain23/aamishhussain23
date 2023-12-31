@@ -3,7 +3,7 @@
   <img src="your-profile-image.jpg" alt="aamish hussain" width="150" />
 </p>
 
-<h1 align="center">Aamish Hussain</h1>
+<h1 align="center">Aamish Hussain</h1> 
 
 <h3 align="center">Full-Stack MERN Developer | DevOps Enthusiast</h3>
 

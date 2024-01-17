@@ -1,61 +1,32 @@
-<!-- Header -->
 <p align="center">
-  <img src="your-profile-image.jpg" alt="aamish hussain" width="150" />
+  <img src="https://your-image-url.com/your-image.png" alt="Aamish Hussain">
 </p>
 
-<h1 align="center">Aamish Hussain</h1> 
+# Hi there! 👋 I'm Aamish Hussain
 
-<h3 align="center">Full-Stack MERN Developer | DevOps Enthusiast</h3>
+I'm a passionate Full Stack Developer based in 🇮🇳 India, specializing in both frontend and backend technologies. My journey in the world of technology started at Neotia Institute of Technology Management and Science, where I pursued a Bachelor's degree in Computer Science & Engineering.
 
-<!-- GitHub Stats Badge -->
+## 🚀 Quick Overview
+
+- 💼 Currently exploring the limitless possibilities of Web Development.
+- 🎓 Graduated with a stellar CGPA of 8.56/10 in Computer Science & Engineering.
+- 📧 Reach me at: aamishhussain23@gmail.com
+- 📱 Connect with me: [LinkedIn](#) | [GitHub](#)
+
+## 💻 Skills
+
 <p align="center">
-  <img src="https://img.shields.io/badge/GitHub-YourUsername-brightgreen?style=for-the-badge" alt="GitHub" />
+  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" alt="JavaScript" height="100">
+  <img src="https://your-skills-image-url.com/cplusplus.png" alt="C++">
+  <img src="https://your-skills-image-url.com/react.png" alt="React">
+  <img src="https://your-skills-image-url.com/nodejs.png" alt="NodeJS">
+  <img src="https://your-skills-image-url.com/expressjs.png" alt="ExpressJS">
+  <img src="https://your-skills-image-url.com/htmlcss.png" alt="HTML/CSS">
+  <img src="https://your-skills-image-url.com/figma.png" alt="Figma">
+  <img src="https://your-skills-image-url.com/git.png" alt="Git">
+  <img src="https://your-skills-image-url.com/linux.png" alt="Linux">
+  <img src="https://your-skills-image-url.com/postman.png" alt="Postman">
+  <img src="https://your-skills-image-url.com/mongodb.png" alt="MongoDB">
 </p>
 
-<!-- Animated Tech Stack Badges -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Frontend-React-61DAFB?style=for-the-badge&logo=react" alt="React" />
-  <img src="https://img.shields.io/badge/Backend-Node.js-339933?style=for-the-badge&logo=node.js" alt="Node.js" />
-  <img src="https://img.shields.io/badge/DevOps-Docker-2496ED?style=for-the-badge&logo=docker" alt="Docker" />
-</p>
 
-👋 Welcome to my GitHub repository! I'm a passionate Full-Stack MERN developer with a knack for solving complex problems and a strong foundation in DevOps. My mission is to build innovative web applications and deploy them seamlessly. Here's a glimpse into my world of code:
-
-<!-- GIF Showcase -->
-<p align="center">
-  <img src="project-showcase.gif" alt="Project Showcase" />
-</p>
-
-## 🚀 Skills & Expertise
-
-
-## 💼 Experience
-
-
-## 📚 Education
-
-
-
-## 🌐 Projects
-
-Here are a few projects I've worked on:
-
-1. [Project 1 Name](link-to-project-1) - Brief project description.
-2. [Project 2 Name](link-to-project-2) - Brief project description.
-3. [Project 3 Name](link-to-project-3) - Brief project description.
-
-## 🌟 Achievements
-
-- [List any certifications or awards you've received.]
-
-## 🔗 Connect
-
-[... Your Connect Links ...]
-
-Feel free to connect with me for collaboration, job opportunities, or just to chat about technology and development.
-
-## 📄 License
-
-This repository is under the [Choose an open-source license] license. See [LICENSE](LICENSE) for more details.
-
-Thank you for visiting my GitHub profile. Let's code something amazing together! 🖥️🚀

@@ -9,7 +9,6 @@ I'm a passionate Full Stack Developer based in 🇮🇳 India, specializing in b
 ## 🚀 Quick Overview
 
 - 💼 Currently exploring the limitless possibilities of Web Development.
-- 🎓 Graduated with a stellar CGPA of 8.56/10 in Computer Science & Engineering.
 - 📧 Reach me at: aamishhussain23@gmail.com
 - 📱 Connect with me: [LinkedIn](#) | [GitHub](#)
 

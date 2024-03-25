@@ -4,7 +4,7 @@
 
 # Hi there! 👋 I'm Aamish Hussain
 
-I'm a passionate Full Stack Developer based in 🇮🇳 India, specializing in both frontend and backend technologies. My journey in the world of technology started at Neotia Institute of Technology Management and Science, where I pursued a Bachelor's degree in Computer Science & Engineering.
+I am Aamish Hussain, a diligent Computer Science graduate with hands-on experience in full-stack development, particularly adept in JavaScript, Reactjs, and Nodejs. Passionate about crafting dynamic web applications and dedicated to continuous learning and innovation.
 
 ## 🚀 Quick Overview
 

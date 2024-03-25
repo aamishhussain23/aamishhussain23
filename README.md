@@ -4,7 +4,7 @@
 
 # Hi there! 👋 I'm Aamish Hussain
 
-I am Aamish Hussain, a diligent Computer Science graduate with hands-on experience in full-stack development, particularly adept in JavaScript, Reactjs, and Nodejs. Passionate about crafting dynamic web applications and dedicated to continuous learning and innovation.
+A diligent Computer Science graduate with hands-on experience in full-stack development, particularly adept in JavaScript, Reactjs, and Nodejs. Passionate about crafting dynamic web applications and dedicated to continuous learning and innovation.
 
 ## 🚀 Quick Overview
 
